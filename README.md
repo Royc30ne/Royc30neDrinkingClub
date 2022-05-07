@@ -2,7 +2,7 @@
 
 # Cocktails
 
-[白俄罗斯 ****Belarusian****](Recipes/%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%20Belarusian.md)
+[白俄罗斯 Belarusian](Recipes/%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%20Belarusian.md)
 
 [黑俄罗斯 Black Russia](Recipes/%E9%BB%91%E4%BF%84%E7%BD%97%E6%96%AF%20Black%20Russia.md)
 
