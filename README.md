@@ -16,7 +16,7 @@
 
 [莫吉托 Mojito](Recipes/%E8%8E%AB%E5%90%89%E6%89%98%20Mojito.md)
 
-[床笫之间 Between The Sheets](Recipes/%E5%BA%8A%E7%AC%AB%E4%B9%8B%E9%97%B4%20Between%20The%20Sheets.md%)
+[床笫之间 Between The Sheets](Recipes/%E5%BA%8A%E7%AC%AB%E4%B9%8B%E9%97%B4%20Between%20The%20Sheets.md)
 
 # Dishes
 
